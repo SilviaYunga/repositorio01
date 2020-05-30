@@ -4,3 +4,4 @@ en nuestra Pc es muy importante
 Debemos tener claro los comandos utilizados en git
 saber como haver para compartir  un archivo mediante github es muy importante
 
+es importate prestar ataencion a cada paso para hacer un archivo
